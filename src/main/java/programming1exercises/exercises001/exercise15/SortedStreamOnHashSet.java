@@ -3,7 +3,7 @@ package programming1exercises.exercises001.exercise15;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Main {
+public class SortedStreamOnHashSet {
     public static void main(String[] args) {
         Set<String> names = new HashSet<>();
 

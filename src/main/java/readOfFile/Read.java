@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Read {
     public static void main(String[] args) throws FileNotFoundException {
-        /** Assign the Scanner */
+        /** Assign the ScannerUse */
         Scanner scanner = new Scanner(new File("C:\\Users\\sylwe\\Desktop\\ToDo.txt"));
         /** Display scanner value */
         while (scanner.hasNextLine()) {

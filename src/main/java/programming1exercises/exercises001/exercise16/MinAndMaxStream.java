@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Main {
+public class MinAndMaxStream {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
 

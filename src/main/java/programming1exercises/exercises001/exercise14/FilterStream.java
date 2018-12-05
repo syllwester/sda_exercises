@@ -3,7 +3,7 @@ package programming1exercises.exercises001.exercise14;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class FilterStream {
     public static void main(String[] args) {
         List<String> names = new ArrayList<>();
 

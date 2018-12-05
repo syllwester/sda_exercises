@@ -3,7 +3,7 @@ package programming1exercises.exercises001.exercise13;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class UpperCaseStream {
     public static void main(String[] args) {
         List<String> names = new ArrayList<>();
 
