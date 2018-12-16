@@ -2,19 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebb9925-4eaf-48d1-b019-fa4b6d90e441" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/ScannerUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/UpperCaseStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/FilterStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/MinAndMaxStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/readOfFile/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/readOfFile/Read.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise12/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise13/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise14/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/TableWithName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/TableWithName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/UpperCaseStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/UpperCaseStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/FilterStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/FilterStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/MinAndMaxStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/MinAndMaxStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/ListsWithNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/MyRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/SaveFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/AddNamesToCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/AddNamesToCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise10/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise10/TableWithName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise10/TableWithName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise13/UpperCaseStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise13/UpperCaseStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise14/FilterStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise14/FilterStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise16/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise17/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise17/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise17/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise17/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise18/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise18/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise19and20/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise19and20/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise1and2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise1and2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise21/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise21/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise22/ListsWithNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise22/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise22/MyRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise22/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise22/SaveFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise7/AddNamesToCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise7/AddNamesToCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises001/exercise9/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programming1exercises/exercises002/exercise06/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programming1exercises/exercises002/exercise06/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,56 +108,38 @@
     <session id="-1027533548">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="82" />
-          <entry key="java" value="47" />
+          <entry key="java" value="1338" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="47" />
+          <entry key="JAVA" value="1338" />
           <entry key="PLAIN_TEXT" value="82" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Reverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,57 +155,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/LotteryNumbersAndAddToCollection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/queueToTheDoctor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/QueueToTheDoctor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/TableWithName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/CollectionQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/worker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise18/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise20/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/MyRun.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/MyRun2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/List.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/MyRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/ListsWithNames.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/PrintArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/PrintArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/PrintArray02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/PrintArrayString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Contains.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Equals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/CopyArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Reverse.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/Scanner.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/ScannerUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Worker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise4/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/AddNamesToCollection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/TableWithName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/UpperCaseStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/FilterStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/MinAndMaxStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Worker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise18/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java" />
       </list>
     </option>
   </component>
@@ -193,10 +223,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="32" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-423" />
+    <option name="y" value="-1039" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,6 +234,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,26 +285,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programming1exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises001" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_in_home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projekt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="programming1exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises001" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_in_home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projekt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="programming1exercises" type="462c0819:PsiDirectoryNode" />
               <item name="exercises002" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -296,13 +307,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544036415008" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544964456692" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -335,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinAndMaxStream">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -344,13 +354,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises001.exercise14.FilterStream" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises001.exercise22.Main" />
       <module name="projekt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises001.exercise14.*" />
+          <option name="PATTERN" value="programming1exercises.exercises001.exercise22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,7 +368,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises002.exercise01.Main" />
+      <module name="projekt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming1exercises.exercises002.exercise01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises002.exercise02.Main" />
+      <module name="projekt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming1exercises.exercises002.exercise02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises002.exercise06.Main" />
       <module name="projekt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -372,41 +410,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises002.exercise05.Main" />
-      <module name="projekt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises002.exercise05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises002.exercise03.Main" />
-      <module name="projekt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises002.exercise03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises002.exercise04.Main" />
+      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises001.exercise18.Main" />
       <module name="projekt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises002.exercise04.*" />
+          <option name="PATTERN" value="programming1exercises.exercises001.exercise18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,48 +462,6 @@
       <module name="projekt" />
       <envs />
     </configuration>
-    <configuration name="MinAndMaxStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises001.exercise16.MinAndMaxStream" />
-      <module name="projekt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises001.exercise16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedStreamOnHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises001.exercise15.SortedStreamOnHashSet" />
-      <module name="projekt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises001.exercise15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpperCaseStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming1exercises.exercises001.exercise13.UpperCaseStream" />
-      <module name="projekt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming1exercises.exercises001.exercise13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -515,19 +483,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.MinAndMaxStream" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinAndMaxStream" />
-        <item itemvalue="Application.SortedStreamOnHashSet" />
-        <item itemvalue="Application.FilterStream" />
-        <item itemvalue="Application.UpperCaseStream" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -592,10 +560,39 @@
     <option name="totallyTimeSpent" value="105560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-421" y="-1047" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18657719" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35460994" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32459018" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18657719" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -623,7 +620,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -632,117 +629,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/RandomNumbersAndGetMinMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/AddNamesToCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/RandomNumbersToCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/QueueToTheDoctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/TableWithName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/CollectionQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise20/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110">
           <caret line="707" selection-start-line="707" selection-end-line="707" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -753,73 +643,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/MyRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/ListsWithNames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/SaveFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/PrintArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/PrintArrayString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -830,115 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/CopyArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/MethodsGetSumMaxMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise3/RandomMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise4/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/ScannerUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/UpperCaseStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/FilterStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/MinAndMaxStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise18/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -971,10 +693,311 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/MethodsGetSumMaxMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise1and2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise3/RandomMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/LotteryAndCoutingNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise6/RandomNumbersAndGetMinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise7/AddNamesToCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/RandomNumbersToCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise9/QueueToTheDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise10/TableWithName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise12/ScannerUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise11/CollectionQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise13/UpperCaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise14/FilterStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise15/SortedStreamOnHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise16/MinAndMaxStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise17/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise19and20/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise18/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise21/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/ListsWithNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="36" lean-forward="true" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="29" lean-forward="true" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/MyRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="20" column="56" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="62" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises001/exercise22/SaveFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/PrintArrayString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Equals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise04/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -982,6 +1005,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programming1exercises/exercises002/exercise06/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>

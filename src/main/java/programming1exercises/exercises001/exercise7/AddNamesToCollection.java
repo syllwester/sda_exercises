@@ -7,10 +7,10 @@ public class AddNamesToCollection {
     public void addName(){
         Set nameCollection = new TreeSet();
 
+        nameCollection.add("Jan");
+        nameCollection.add("Piotr");
         nameCollection.add("Sylwek");
-        nameCollection.add("Judyta");
-        nameCollection.add("Kicia");
-        nameCollection.add("Beata");
+        nameCollection.add("Andrzej");
         nameCollection.add("Włodek");
 
         System.out.println(nameCollection);

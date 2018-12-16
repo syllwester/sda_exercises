@@ -1,5 +1,11 @@
 package programming1exercises.exercises001.exercise14;
 
+/**
+ * Created by Sylwester Garstecki
+ * 14. Utwórz kolekcję z 10 imionami (W kolekcji musi pojawić się imię Jan). Korzystając
+ * ze strumieni znajdź imię Jan i wyświetl je.
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

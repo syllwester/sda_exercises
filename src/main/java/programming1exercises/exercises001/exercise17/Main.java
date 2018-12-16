@@ -1,5 +1,13 @@
 package programming1exercises.exercises001.exercise17;
 
+/**
+ * Created by Sylwester Garstecki
+ * 17. Utwórz klasę pracownik posiadającą imię, nazwisko i wynagrodzenie. Dodaj 10
+ * pracowników do kolekcji ArrayList. Korzystając ze strumieni znajdź średnie
+ * wynagrodzenie pracownika, a następnie korzystając ze strumieni wyświetl wszystkich
+ * pracowników zarabiających więcej niż średnia.
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.OptionalDouble;

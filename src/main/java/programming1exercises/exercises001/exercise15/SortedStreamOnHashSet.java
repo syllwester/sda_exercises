@@ -1,5 +1,11 @@
 package programming1exercises.exercises001.exercise15;
 
+/**
+ * Created by Sylwester Garstecki
+ * 15. Utwórz nieposortowaną kolekcję z 10 dowolnymi i unikatowymi imionami.
+ * Korzystając ze strumieni posortuj kolekcję i wyświetl ją.
+ */
+
 import java.util.HashSet;
 import java.util.Set;
 

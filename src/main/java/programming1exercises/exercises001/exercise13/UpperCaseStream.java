@@ -1,5 +1,12 @@
 package programming1exercises.exercises001.exercise13;
 
+/**
+ * Created by Sylwester Garstecki
+ * 13. Utwórz kolekcję, na następnie dodaj do niej 5 imion. Korzystając z Stream zmodyfikuj
+ * kolekcję tak, aby imiona były pisane dużymi literami (UPPERCASE), a następnie
+ * wyświetl wszystkie imiona.
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

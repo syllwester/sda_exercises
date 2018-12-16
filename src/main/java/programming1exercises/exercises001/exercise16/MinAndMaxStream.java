@@ -1,5 +1,11 @@
 package programming1exercises.exercises001.exercise16;
 
+/**
+ * Created by Sylwester Garstecki
+ * 16. Utwórz kolekcję z 6 liczbami. Korzystając z strumieni znajdź maksymalną i
+ * minimalną liczbę znajdującą się w kolekcji.
+ */
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

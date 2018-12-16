@@ -16,6 +16,9 @@ public class TableWithName {
         names.add("Marek");
         names.add("Arnold");
         names.add("Czarek");
+        names.add("Lili");
+        names.add("Piotr");
+        names.add("Karol");
 
         System.out.println(names);
     }

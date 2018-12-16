@@ -1,9 +1,6 @@
 package programming1exercises.exercises001.exercise5;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
@@ -32,6 +29,7 @@ public class LotteryAndCoutingNum {
                 .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
                 .map(entry -> entry.getKey())
                 .limit(5)
+                .sorted((e2, e1) -> e1.compareTo(e2.intValue()))
                 .collect(Collectors.toList());
 
         System.out.println("Repeat: ");

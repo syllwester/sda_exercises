@@ -1,5 +1,12 @@
 package programming1exercises.exercises001.exercise4;
 
+/**
+ * Creted by Sylwester Garstecki
+ * 4. Przygotuj klasę osoba z polami imię, nazwisko, PESEL oraz nadpisz (@override)
+ * metodę .toString() tak aby wyświetlała dane osoby w formacie "Imie: %s, Nazwisko:
+ * %s, PESEL: %s". Utwórz instancję klasy osoba, wypełnij przykładowymi danymi oraz
+ * wyświetl dane osoby korzystając z przygotowanej metody toString().
+ */
 public class Main {
     public static void main(String[] args) {
         Person person1 = new Person();
